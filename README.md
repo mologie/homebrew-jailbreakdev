@@ -14,6 +14,4 @@ If you only need a single formula and do no updates, you may also want `brew ins
 Formulas
 --------
 
-`ldid`: Saurik's official ldid distribution
-
 `deviceconsole`: rpetrich's device debug log viewer
