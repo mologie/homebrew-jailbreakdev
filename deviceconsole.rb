@@ -2,7 +2,7 @@ require "formula"
 
 class Deviceconsole < Formula
   homepage "https://github.com/rpetrich/deviceconsole"
-  head "https://github.com/rpetrich/deviceconsole.git", :revision => "4d3c4b978ab3cdf73d33c9d41817c031eeac03e9"
+  head "https://github.com/rpetrich/deviceconsole.git", :revision => "4d6752da79e5f46297612b2d0421c59d257ff51c"
 
   def install
     system "make"
